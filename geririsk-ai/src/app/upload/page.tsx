@@ -47,7 +47,7 @@ export default function UploadPage() {
         {/* Header Section - Fixed Height */}
         <header className="flex-none h-16 border-b border-gray-100 flex items-center justify-between px-6 md:px-12 bg-white z-10">
           <div className="flex items-center gap-4">
-            <div className="relative h-12 w-auto aspect-[3/1]">
+            <div className="relative h-12 w-auto aspect-3/1">
                  {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img 
                   src="/logo.png" 
