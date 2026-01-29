@@ -1,0 +1,41 @@
+# ============================================
+# GeriRisk - Complete Project Requirements
+# ============================================
+
+# --------------------------------------------
+# Python Dependencies (for ML module)
+# Install with: pip install -r requirements.txt
+# --------------------------------------------
+numpy>=1.24.0
+joblib>=1.3.0
+scikit-learn>=1.3.0
+
+# --------------------------------------------
+# Node.js Dependencies (geririsk-ai)
+# Install with: cd geririsk-ai && npm install
+# --------------------------------------------
+# Production Dependencies:
+# - next: 16.1.4
+# - react: 19.2.3
+# - react-dom: 19.2.3
+# - @supabase/supabase-js: ^2.91.1
+# - papaparse: ^5.5.3
+
+# Dev Dependencies:
+# - typescript: ^5
+# - tailwindcss: ^4.1.18
+# - @tailwindcss/postcss: ^4.1.18
+# - eslint: ^9
+# - eslint-config-next: 16.1.4
+# - babel-plugin-react-compiler: 1.0.0
+# - @types/node: ^20
+# - @types/react: ^19
+# - @types/react-dom: ^19
+# - @types/papaparse: ^5.5.2
+
+# --------------------------------------------
+# Quick Setup Instructions
+# --------------------------------------------
+# 1. Python: pip install -r requirements.txt
+# 2. Node.js: cd geririsk-ai && npm install
+# --------------------------------------------
